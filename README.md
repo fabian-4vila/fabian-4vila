@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**fabian-4vila/fabian-4vila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer constantly learning and improving my skills in programming and software development. Here's a bit about me:
 
-Here are some ideas to get you started:
+## Languages and Tools I Know:
+- **JavaScript (JS)**
+- **TypeScript (TS)**
+- **Python**
+- **React**
+- **Node.js**
+- **Express.js**
+- **SQL**
+- **Basic Testing with Jest**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning:
+- **Angular**
+- **Java**
+
+
+## My Blog:
+I'm working on creating a blog where I'll share my programming journey, tips, and tutorials. It's currently under development, but stay tuned for updates!
+
+Thank you for visiting my profile. Feel free to explore my repositories and reach out if you'd like to collaborate or just say hi! 😊
+
