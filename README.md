@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a passionate developer constantly learning and
 
 ### Languages and Tools I Know:
 
-- **JavaScript (JS)**
-- **TypeScript (TS)**
+- **JavaScript**
+- **TypeScript**
 - **Python**
 - **React**
 - **Node.js**
