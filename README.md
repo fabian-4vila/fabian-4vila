@@ -47,4 +47,4 @@ Stay tuned for updates!
 ### 📫 Let's Connect
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or just say hi! 😊
-
+### 📊 My GitHub Activity
