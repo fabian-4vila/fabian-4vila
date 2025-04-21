@@ -13,7 +13,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer constantly learning and improving my skills in programming and software development. Here's a bit about me:
 
-<img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300"/>
+<img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250"/>
 
 - 🎓 Self-taught developer with a strong interest in web technologies.
 - 💻 Focused on building clean, scalable, and user-friendly applications.
@@ -26,31 +26,11 @@ Welcome to my GitHub profile! I'm a passionate developer constantly learning and
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
- 
-  ### Lenguajes
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Pure%20CSS-2965f1?logo=css3&logoColor=white" alt="CSS3" />
+| **Languages** | **Frameworks & Libraries** | **Databases, ORM & Tools** |
+|--------------|-----------------------------|-----------------------------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) <br> ![CSS](https://img.shields.io/badge/Pure%20CSS-2965f1?logo=css3&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) <br> ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) <br> ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) <br> ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) <br> ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) <br> ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) <br> ![TypeORM](https://img.shields.io/badge/TypeORM-FF4785?logo=typeorm&logoColor=white) <br> ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) <br> ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) |
 
-  ### Frameworks y librerías
-<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
 
-  ### Bases de datos y ORM
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/TypeORM-FF4785?logo=typeorm&logoColor=white" alt="TypeORM" />
-
-  ### Testing
-<img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" alt="Jest" />
-
-  ### Entornos
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
-
-</p>
 
 ---
 
