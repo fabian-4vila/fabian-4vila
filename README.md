@@ -2,7 +2,6 @@
   <b>Hi, I'm Fabián Ávila</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Passionate+Developer+%F0%9F%94%A5;Always+learning+something+new+%F0%9F%93%9A;Open+to+collaborations+%F0%9F%92%BB;Lover+of+clean+code+%E2%9C%A8"/>
 </p>
