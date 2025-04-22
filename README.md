@@ -15,12 +15,12 @@ Welcome to my GitHub profile! I'm a passionate developer constantly learning and
 
 <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250"/>
 <p>
-<p> - 🎓 Self-taught developer with a strong interest in web technologies.</p>
-<p> - 💻 Focused on building clean, scalable, and user-friendly applications.</p>
-<p> - 🌱 Currently learning **Angular** and **Java**.</p>
-<p> - 📖 Exploring backend architecture and testing methodologies.</p>
-<p> - ✍️ Working on a personal **blog** to share tutorials and dev experiences.</p>
-<p> - 🤝 Open to collaboration on interesting projects!</p>
+<p> • 🎓 Self-taught developer with a strong interest in web technologies.</p>
+<p> • 💻 Focused on building clean, scalable, and user-friendly applications.</p>
+<p> • 🌱 Currently learning **Angular** and **Java**.</p>
+<p> • 📖 Exploring backend architecture and testing methodologies.</p>
+<p> • ✍️ Working on a personal **blog** to share tutorials and dev experiences.</p>
+<p> • 🤝 Open to collaboration on interesting projects!</p>
 </p>
 
 ---
