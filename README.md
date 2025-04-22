@@ -13,14 +13,12 @@
 Welcome to my GitHub profile! I'm a passionate developer constantly learning and improving my skills in programming and software development. Here's a bit about me:
 
 <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250"/>
-<div align="left">
-  <p> • 🎓 Self-taught developer with a strong interest in web technologies.</p>
-  <p> • 💻 Focused on building clean, scalable, and user-friendly applications.</p>
-  <p> • 🌱 Currently learning <b>Angular</b> and <b>Java</b>.</p>
-  <p> • 📖 Exploring backend architecture and testing methodologies.</p>
-  <p> • ✍️ Working on a personal <b>Blog</b> to share tutorials and dev experiences.</p>
-  <p> • 🤝 Open to collaboration on interesting projects!</p>
-</div>
+ • 🎓 Self-taught developer with a strong interest in web technologies.
+ • 💻 Focused on building clean, scalable, and user-friendly applications.
+ • 🌱 Currently learning <b>Angular</b> and <b>Java</b>.
+ • 📖 Exploring backend architecture and testing methodologies.
+ • ✍️ Working on a personal <b></b>Blog</b> to share tutorials and dev experiences.
+ • 🤝 Open to collaboration on interesting projects!
 
 ---
 
