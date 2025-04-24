@@ -10,8 +10,8 @@
 
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About Me
 
-Welcome to my GitHub profile! I'm a passionate developer constantly learning and improving my skills in programming and software development. Here's a bit about me:
-
+<p align="center" >Welcome to my GitHub profile! I'm a passionate developer constantly learning and improving my skills in programming and software development. Here's a bit about me:
+</p>
 <img  align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400"/>
 
 
