@@ -6,12 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Passionate+Developer+%F0%9F%94%A5;Always+learning+something+new+%F0%9F%93%9A;Open+to+collaborations+%F0%9F%92%BB;Lover+of+clean+code+%E2%9C%A8"/>
 </p>
 
----
-
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About Me
 
 <p align="center" >Welcome to my GitHub profile! I'm a passionate developer constantly learning and improving my skills in programming and software development. Here's a bit about me:
 </p>
+
+---
+
 <img  align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400"/>
 
 
