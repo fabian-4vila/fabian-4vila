@@ -12,7 +12,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer constantly learning and improving my skills in programming and software development. Here's a bit about me:
 
-<img  align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="200"/>
+<img  align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400"/>
 
 
 | Descripción                                                       |
