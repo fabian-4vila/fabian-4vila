@@ -13,7 +13,7 @@
 
 ---
 
-<img  align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350" height="260"/>
+<img  align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350" height="240"/>
 
 
 | Descripción                                                       |
