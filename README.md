@@ -11,8 +11,6 @@
 <p align="center" >Welcome to my GitHub profile! I'm a passionate developer constantly learning and improving my skills in programming and software development. Here's a bit about me:
 </p>
 
----
-
 <img  align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350" height="240"/>
 
 
@@ -26,17 +24,14 @@
 | 🤝 Open to collaboration on interesting projects!                 |
 
 
----
-
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 | **Languages** | **Frameworks** | **Databases, Tools** |
 |--------------|-----------------------------|-----------------------------|
 |![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) <br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) <br>![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) <br>![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) <br>![CSS](https://img.shields.io/badge/Pure%20CSS-2965f1?logo=css3&logoColor=white) |![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) <br>![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) <br>![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) <br>![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) <br>![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) <br>![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) |![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) <br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) <br>![TypeORM](https://img.shields.io/badge/TypeORM-FF4785?logo=typeorm&logoColor=whitw) <br>![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) <br>![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) |
 
----
 
-### 📝 Blog in Progress
+## 📝 Blog in Progress
 
 I'm working on creating a personal blog where I'll post:
 
@@ -47,8 +42,6 @@ I'm working on creating a personal blog where I'll post:
 
 Stay tuned for updates!
 
----
-
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or just say hi! 😊
