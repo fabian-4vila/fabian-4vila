@@ -11,7 +11,7 @@
 <p align="center" >Welcome to my GitHub profile! I'm a passionate developer constantly learning and improving my skills in programming and software development. Here's a bit about me:
 </p>
 
-<img  align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="200" height="150"/>
+<img  align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250" height="200"/>
 
 
 | Descripción                                                       |
